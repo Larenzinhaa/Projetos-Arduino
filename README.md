@@ -2,3 +2,6 @@
 
 Projetos:
 - Piscar um led
+- Piscar dois leds
+- Semáforo interativo
+- Ventilador
