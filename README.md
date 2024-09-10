@@ -1,7 +1,6 @@
-## Projeto desenvolvido para o arduino
+## *Projeto desenvolvido para o Arduino*
 
-Projetos:
-- Piscar um led
-- Piscar dois leds
-- Semáforo interativo
-- Ventilador
+- piscar um led 🚨
+- piscar dois leds 🔦
+- semáforo interativo🚦
+- ventilador 🌬️
